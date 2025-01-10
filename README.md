@@ -16,6 +16,7 @@ This project uses the YOLOv11 object detection model to identify theft activitie
 
 1. Clone this repository:
    ```bash
+   https://www.kaggle.com/code/alihassanml/theft-classfication-using-yolo11
    git clone https://github.com/alihassanml/Theft-Detection.git
    cd Theft-Detection
    ```
@@ -108,3 +109,4 @@ This project is licensed under the [MIT License](LICENSE).
   - GitHub: [alihassanml](https://github.com/alihassanml)  
   - Email: alihassanbscs99@gmail.com 
 ```
+https://www.kaggle.com/code/alihassanml/theft-classfication-using-yolo11
